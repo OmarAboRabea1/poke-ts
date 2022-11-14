@@ -24,7 +24,7 @@ const Card=({pokemon}:CardProps):JSX.Element=>{
                 pokemon.map((item) => {
                     return (
                         <>  
-                            <a href={item && "/Pokemon/" + item.id} className="card">
+                            <a href={item && "/poke-ts/Pokemon/" + item.id} className="card">
                             <div className="card" id={item.id} >
                                 <h2>#{item.id}</h2>
                                 <img src={item.sprites.front_default} alt="" />
