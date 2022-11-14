@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/poke-ts/static/css/main.dddde970.css",
+    "main.js": "/poke-ts/static/js/main.0947b135.js",
+    "static/js/787.f35b222c.chunk.js": "/poke-ts/static/js/787.f35b222c.chunk.js",
+    "static/media/logo.png": "/poke-ts/static/media/logo.640c4fec67002c7b9eef.png",
+    "index.html": "/poke-ts/index.html",
+    "static/media/Pokemon_type": "/poke-ts/static/media/Pokemon_type.37d338b44df270d4ac82",
+    "main.dddde970.css.map": "/poke-ts/static/css/main.dddde970.css.map",
+    "main.0947b135.js.map": "/poke-ts/static/js/main.0947b135.js.map",
+    "787.f35b222c.chunk.js.map": "/poke-ts/static/js/787.f35b222c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dddde970.css",
+    "static/js/main.0947b135.js"
+  ]
+}
